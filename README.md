@@ -16,7 +16,7 @@
 
 * **Model Status:** 🟢 Active
 * **Knowledge Cutoff:** March 2026
-* **Context Window:** 128K Tokens
+* **Context Window:** 101K Tokens
 
 ### ⚙️ Capabilities
 * ✅ **Code Generation & Pipeline Architecture**
